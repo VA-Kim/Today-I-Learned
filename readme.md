@@ -1,17 +1,31 @@
-## 📒 알고리즘
+# **Today I Repaid**
 
-1. **나머지 연산**
-    - 공식
+비전공자 프로그래머가 공부부채를 없애고자 진행하는 프로젝트.
 
-        ( A + B ) % C = ( A % C + A % B ) % C
+전공자들은 4년에 걸쳐서 배우는 것 중, 내가 웹개발자로서 일하면서 필요하다고 생각된 것만 정리해본다.
 
-        ( A * B ) % C = ( A % C * A % B ) % C
+# 💰Debt_공부부채
 
-        - 나머지에는 적용되지 않는다.
-    - 특이사항
+## 📜Category
 
-        음수의 경우에는 결과의 부호가 프로그래밍 언어마다 다르다.
+- **1. Computer Science**
 
-        C11, C++14, JAVA : 음수 그대로 표현됨.
+    [1-1 Algorithm](https://www.notion.so/334260b7f0694d3f99db5969d17ff726)
 
-        Python3 : C를 한번 더 더한 값으로 표현된다.
+    1-2. Data Structure
+
+- **2. Web Programming for Java Developer (back-end)**
+
+    2-1. Spring Boot
+
+    2-2. Design Pattern
+
+- **3. Web Programming for Java Developer (front-end)**
+
+    3-1. Angular
+
+    3-2. React
+
+# ✍Repaying_청산중
+
+## ⭐Plan
